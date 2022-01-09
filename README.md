@@ -3,6 +3,7 @@
 ## Introduction
 
 ![Needs in the sims 4](https://guides.gamepressure.com/thesims4/gfx/word/452402571.jpg)
+
 In this project I want to make an AI that chooses which actions it should do to fullfill the needs of an agent.
 
 This techinque is mostly used in simulation games, like the Sims, and can give your NPC a more realistic feel to them.
